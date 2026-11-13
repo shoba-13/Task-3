@@ -43,7 +43,7 @@ The project uses **Structures, Functions, and File Handling** to manage and stor
 ## 📂 Project Structure
 
 ```text
-CodeAlpha_Task4/
+CodeAlpha_Task3/
 │
 ├── banking_system.c
 ├── README.md
@@ -63,7 +63,7 @@ git clone YOUR_REPOSITORY_LINK
 ### Step 2: Open the Project Folder
 
 ```bash
-cd CodeAlpha_Task4
+cd CodeAlpha_Task3
 ```
 
 ### Step 3: Compile the Program
