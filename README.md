@@ -2,7 +2,7 @@
 # 🏦 Banking System Using C
 
 <p align="center">
-  <b>CodeAlpha C Programming Internship – Task 4</b>
+  <b>CodeAlpha C Programming Internship – Task 3</b>
 </p>
 
 <p align="center">
@@ -135,7 +135,7 @@ Close the banking application.
 
 - **Organization:** CodeAlpha
 - **Internship Domain:** C Programming
-- **Task Number:** Task 4
+- **Task Number:** Task 3
 - **Project Name:** Banking System
 - **Programming Language:** C
 
